@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Arthus.jpg" />
+    <None Include="wwwroot\css\lightTheme.css" />
+    <None Include="wwwroot\Projects.txt" />
+    <None Include="wwwroot\Árthus_James_Serrano_Erthal_-_Desenvolvedor_Full_Stack.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+  </ItemGroup>
+
+</Project>
