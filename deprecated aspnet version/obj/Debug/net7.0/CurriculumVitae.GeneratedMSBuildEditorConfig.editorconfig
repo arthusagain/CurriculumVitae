@@ -9,49 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CurriculumVitae
 build_property.RootNamespace = CurriculumVitae
-build_property.ProjectDir = C:\Users\Arthus\Documents\CurriculumVitae\CurriculumVitae\
+build_property.ProjectDir = c:\Users\Arthus\Documents\CurriculumVitae\CurriculumVitae\deprecated aspnet version\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Arthus\Documents\CurriculumVitae\CurriculumVitae
+build_property.MSBuildProjectDirectory = c:\Users\Arthus\Documents\CurriculumVitae\CurriculumVitae\deprecated aspnet version
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Curriculos/Curriculos.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Curriculos/Curriculos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VycmljdWxvc1xDdXJyaWN1bG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Home/Index.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Home/Privacy.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Projetos/Projetos.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Projetos/Projetos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcUHJvamV0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Shared/Error.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Sobre/Sobre.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Sobre/Sobre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29icmVcU29icmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/_ViewImports.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/_ViewStart.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/Views/Shared/_Layout.cshtml]
+[c:/Users/Arthus/Documents/CurriculumVitae/CurriculumVitae/deprecated aspnet version/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qhyhtljkmb
