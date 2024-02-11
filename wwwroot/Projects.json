@@ -1,0 +1,85 @@
+[
+    {
+        "nome": "Keimagus",
+        "img": "https://img.itch.zone/aW1nLzI4MDI2ODUucG5n/315x250%23c/LN9IgQ.png",
+        "descricao": ["O Mestre dos Magos faleceu antes de achar seu sucessor.","Para decidir quem será o próximo Mestre, os quatro aprendizes mágicos entram em uma guerra pela disputa de seu espírito.","Cada um invoca uma criatura para lutar em seu nome com o objetivo de se tornar o novo Mestre dos Magos.","Keimagus é um party game de 2 a 4 jogadores. Nele, cada jogador escolhe um dos 4 avatares disponíveis para batalhar em uma arena mística com o formato de um templo mágico.","O objetivo é acumular o maior número de pontos arremessando orbes com diferentes efeitos nos outros avatares.","O primeiro que adquirir a pontuação máxima ganha o jogo."],
+        "links": {
+            "itch":"https://prismagamelab.itch.io/keimagus"
+        }
+    },
+    {   
+        "nome": "Por Trás da Máscara",
+        "img": "https://img.itch.zone/aW1nLzM4MjE3NDEucG5n/315x250%23c/KL3xt3.png",
+        "descricao": ["Imagina viver o maior medo da vida várias vezes.","Alex não consegue pensar em outra coisa a não ser fugir da sua festa de formatura, mas não importa o quanto tente, parece que ela sempre volta a acontecer.","A única forma de sair disso é enfrentando os seus maiores medos, mas como isso irá afetar Alex?","Por trás da máscara é um jogo narrativo onde você controla Alex, uma adolescente que está passando por um processo reflexivo a respeito da sua identidade enquanto vive, várias vezes, a sua festa de formatura.","Na festa, tudo parece mais estranho do que o normal e todos parecem estar se escondendo por trás de uma máscara.","Alguns não estão ali apenas para conversar, podendo levar Alex à uma batalha de diálogos, no qual para vencer é preciso quebrar a máscara do seu adversário."],
+        "links": {
+            "itch": "https://prismagamelab.itch.io/portrasdamascara"
+        }
+    },
+    {
+        
+
+        "nome": "O Formigueiro",
+        "img": "https://img.itch.zone/aW1nLzQ4MzQ5NjkucG5n/315x250%23c/LFzGCr.png",
+        "descricao": ["Um formigueiro deveria ser um ambiente natural para você, uma formiga comum, mas não há absolutamente nada de natural neste buraco na terra.","Você não lembra como chegou aqui, mas as parafernálias presas ao seu corpo te dão a impressão de que não foi por querer.","As formigas daqui não são como você as que eram, encontraram um destino pior do que a morte.","E o seu futuro será o mesmo... caso seja pego.","Com cyber-formigas à espreita em cada esquina, você deverá encontrar seu próprio caminho dentro deste formigueiro cruel, metálico e escuro.","As cyber-formigas não precisam de luz para enxergar... e nem você, desde que faça bom uso de seu tato e de suas antenas para visualizar o seu entorno.","Faça de tudo para escapar das presas robóticas que vão fazer de tudo para te colocar onde te querem: dentro de um tubo, servindo de cobaia para sempre."],
+        "links": {
+            "itch": "https://prismagamelab.itch.io/oformigueiro"
+        }
+    },
+    {
+        "nome": "Sweet Punch",
+        "img": "https://img.itch.zone/aW1nLzY1Nzk0NzQucG5n/315x250%23c/ukIhMG.png",
+        "descricao": [
+            "Em um mundo repleto de elfos, orcs e sirenos, você quer achar o seu par perfeito...",
+            "Mas não pode ser qualquer um! Seu parceiro deve ser tão PORRADEIRO quanto VOCÊ!",
+            "Sweet Punch é o melhor aplicativo para aqueles que querem um par à altura!",
+            "O AMOR DÓI !!!👊💜"
+        ],
+        "links": {
+            "itch": "https://prismagamelab.itch.io/sweet-punch",
+            "googleplay": "https://play.google.com/store/apps/details?id=com.PrismaGameLab.Time1"
+        }
+    },
+    {
+        "nome": "Vish Vice",
+        "img": "https://img.itch.zone/aW1nLzc5OTM4NjUucG5n/315x250%23c/KEFID%2F.png",
+        "descricao": ["O atual prefeito da cidade não estava agradando a população e em uma tentativa desesperada de ganhar a esperança do povo, tudo deu errado!","Com o prefeito atrás das grades, cabe a você, o Vice, assumir o seu lugar.","Vista sua cartola e mostre seu valor nesses últimos 7 dias de mandato.","Escute seu povo e faça sua cidade prosperar mais uma vez!"],
+        "links": {
+            
+            "itch": "https://prismagamelab.itch.io/vish-vice",
+            "googleplay": "https://play.google.com/store/apps/details?id=com.Prisma.Reformas"
+        }
+    },
+    {
+        "nome": "Epidemia R10",
+        "img": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2020/02/244250/epidemia1980.jpg?itok=2e2JXADD",
+        "descricao": ["Jogo desenvolvido para a Global Game Jam 2021","Epidemia R10 conta a história de um mundo à beira do apocalipse, um vírus mortal de procedência desconhecida aterroriza e consome a população remanescente.","O jogo, sidescroller 2D, tem como protagonista o especialista Doc, que, por motivação misteriosa, sente que tem a missão de salvar o máximo de pessoas enquanto luta para manter a sanidade diante ao caos."],
+        "links": {
+            "itch": "https://globalgamejam.org/2020/games/epidemia-r10-3"
+        }
+    },
+    {
+        
+        "nome": "Intervenção Cinética",
+        "img": "https://ggj.s3.amazonaws.com/styles/game_listing__normal/featured_image/2021/01/323562/foto_demonstartiva_0.jpg?itok=KRfR3kiY",
+        "descricao": ["Jogo desenvolvido para a Global Game Jam 2021","No ano de 2100, um extraterrestre poderes telecinéticos caiu no planeta terra por acidente e acabou sendo sequestrado para a realização de experimentos secretos do governo.","Os experimentos acontecem num laboratório-estufa localizado no meio de um deserto.","O protagonista, assim como os outros membros de sua raça que lá estão, possuem características semelhantes a de plantas, e os humanos os prendem em incubadoras onde exploram sua fotossíntese para geração de energia limpa.","Após receber uma mensagem mentalmente, o protagonista consegue se libertar de sua incubadora, que ia aos poucos extraindo sua vida, e recebe instruções de deixar o laboratório e encontrar sua família em um ovni no deserto.","Agora, ele precisa fugir da estufa, utilizando seus poderes psíquicos para redirecionar os diversos tiros disparados pelas armas de segurança."],
+        "links": {
+            "itch": "https://globalgamejam.org/2021/games/interven%C3%A7%C3%A3o-cin%C3%A9tica-7s"
+        }
+    },
+    {
+        "nome": "Pau pra toda obra",
+        "img": "https://preview.redd.it/vtzpl5c9yd181.png?width=512&format=png&auto=webp&s=d0ce01fbd57c089dc06a2cc2c1252a6da7e4658a",
+        "descricao": ["Projeto final de desenvolvimento para graduação como bacharel em ciências da computação na PUC-RIO","'Pau pra toda obra' é um aplicativo de contratação de serviços que funciona em duas direções: ambos os contratantes de serviçoes e os trabalhadores que os prestam podem publicar na plataforma detalhes do serviço que buscam ou oferecem.","Assim fica facil pra todo mundo achar servço e quem o faça tudo no mesmo lugar!"],
+        "links": {
+            "github": "https://github.com/arthusagain/projeto-final-pau-pra-toda-obra"
+        }
+    },
+    {
+        "nome": "Curriculum Vitae",
+        "img": "https://cdn-icons-png.flaticon.com/512/6565/6565893.png",
+        "descricao": ["Este site que você lê agora também é projeto me.","Criei esta página como uma forma de disponibilizar mais informação que não caberia no currículo enquanto também pratico desenvolvimento web."],
+        "links": {
+            "github": "https://github.com/arthusagain/CurriculumVitae"
+        }
+    }
+]
